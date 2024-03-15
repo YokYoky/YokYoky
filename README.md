@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently Computer Engineering 2nd year student in Colegio de Montalban <br>👀 I’m interested in Web Exploitation, Digital Forensics, Sysadmin, Programming, CTF<br>📚 I'm currently learning Django framework<br>🎯 Short-term Goals: sysadmin / backend dev<br>🎯 Short-term Goals: Cloud Engineer / Red/Blue team sec</p>
+<p align="left">🌱 I'm currently Computer Engineering 2nd year student in Colegio de Montalban <br>👀 I’m interested in Web Exploitation, Digital Forensics, Sysadmin, Programming, CTF<br>📚 I'm currently learning Django framework<br>🎯 Short-term Goals: sysadmin / backend dev<br>🎯 Long-term Goals: Cloud Engineer / Red/Blue team sec</p>
 
 ###
 
