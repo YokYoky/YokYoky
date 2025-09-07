@@ -16,6 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YokYoky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   
   [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ZoeyZoey.png)](https://tryhackme.com/p/ZoeyZoey)
+  [![HackTheBox](https://app.hackthebox.com/images/logos/logo-htb.svg)](https://app.hackthebox.com/profile/856136)
 </div>
 
 ###
